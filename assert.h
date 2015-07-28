@@ -1,5 +1,5 @@
-#ifndef DEFINES_H
-#define DEFINES_H
+#ifndef ASSERT_H
+#define ASSERT_H
 
 #include <stdio.h>
 
